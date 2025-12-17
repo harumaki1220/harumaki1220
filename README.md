@@ -15,5 +15,5 @@
   <br>
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harumaki1220&background=fffff0&ring=7cb342&fire=33691e&currStreakLabel=33691e&currStreakNum=5d4037&sideNums=5d4037&sideLabels=33691e&border=a5d6a7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-self-gamma.vercel.app/?user=harumaki1220&background=fffff0&ring=7cb342&fire=33691e&currStreakLabel=33691e&currStreakNum=5d4037&sideNums=5d4037&sideLabels=33691e&border=a5d6a7" alt="GitHub Streak" />
 </div>
