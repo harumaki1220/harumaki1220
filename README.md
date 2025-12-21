@@ -2,7 +2,7 @@
 
 ### 🛠 Learning
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,rust,nextjs,html,css,git,github,vscode&theme=light" />
 </div>
 <br>
 
