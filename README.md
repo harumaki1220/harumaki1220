@@ -1,4 +1,5 @@
 ## Hi there 👋
+Icon by <a href="https://x.com/yng_hoti">@yng_hoti</a> 🎨
 
 ### 🛠 Learning
 <div align="center">
