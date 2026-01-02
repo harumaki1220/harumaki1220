@@ -3,7 +3,7 @@ Icon by <a href="https://x.com/yng_hoti">@yng_hoti</a> 🎨
 
 ### 🛠 Learning
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,rust,nextjs,vite,html,css,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,c,react,nextjs,vite,git,github,vscode&theme=light" />
 </div>
 <br>
 
