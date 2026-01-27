@@ -11,7 +11,7 @@ Icon by <a href="https://x.com/yng_hoti">@yng_hoti</a> 🎨
 <div align="center">
   <img src="https://github-readme-stats-phi-gold-29.vercel.app/api?username=harumaki1220&show_icons=true&count_private=true&bg_color=fffff0&title_color=33691e&text_color=5d4037&icon_color=7cb342&border_color=a5d6a7" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats-phi-gold-29.vercel.app/api/top-langs/?username=harumaki1220&layout=compact&count_private=true&bg_color=fffff0&title_color=33691e&text_color=5d4037&icon_color=7cb342&border_color=a5d6a7&hide=html,css,MoonBit,zig&exclude_repo=github-readme-streak-stats,github-readme-stats" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-phi-gold-29.vercel.app/api/top-langs/?username=harumaki1220&layout=compact&count_private=true&bg_color=fffff0&title_color=33691e&text_color=5d4037&icon_color=7cb342&border_color=a5d6a7&hide=html,css&exclude_repo=github-readme-streak-stats,github-readme-stats" height="150" alt="languages graph" />
   
   <br>
   <br>
