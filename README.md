@@ -32,10 +32,6 @@ I'm a second-year university student working on web development and competitive 
   <br>
   
   <img src="https://github-readme-streak-stats-self-gamma.vercel.app/?user=harumaki1220&background=fffff0&ring=7cb342&fire=33691e&currStreakLabel=33691e&currStreakNum=5d4037&sideNums=5d4037&sideLabels=33691e&border=a5d6a7" alt="GitHub Streak" />
-  <br>
-
-  <img src="https://atcoder-badge-api.vercel.app/api/badge?user=matcha_445" />
-  <img src="https://atcoder-badge-api.vercel.app/api/badge?user=matcha_445&type=highest" />
 </div>
 
 ---
