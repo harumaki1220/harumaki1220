@@ -1,13 +1,12 @@
 ## Hi there 👋 I'm Matcha
-I'm a second-year university student working on web development and competitive programming.
+I'm a second-year university student interested in web development and Rust.
 
 ### 🙋‍♂️ About Me
-* 💻 I’m currently working on **Web development using TypeScript and React**
-* 🌱 I’m currently focusing on learning **TypeScript** and **Rust**
-* 🏆 I’m actively participating in **AtCoder (Solving with Rust / Aiming for Green)**
+* 💻 I'm currently building web apps with **TypeScript** and **React**
+* 🦀 I'm currently learning **Rust**
 * 📫 How to reach me: **[X](https://x.com/matcha445_dev)**
 
-### 🛠 Learning (Tools & Tech)
+### 🛠 Tools & Tech
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
