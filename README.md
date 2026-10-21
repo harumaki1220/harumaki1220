@@ -1,37 +1,14 @@
-## Hi there 👋 I'm Matcha
-
-<p align="left">
-  <a href="https://harumaki1220.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-33691e?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://x.com/matcha445_dev">
-    <img src="https://img.shields.io/badge/X-@matcha445__dev-black?style=flat-square&logo=x" alt="X" />
-  </a>
-</p>
-
-### 🛠 Tools & Tech
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FBFF14" />
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
-<br>
+  <h2>Hi there 👋 I'm Matcha</h2>
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-phi-gold-29.vercel.app/api?username=harumaki1220&show_icons=true&count_private=true&bg_color=fffff0&title_color=33691e&text_color=5d4037&icon_color=7cb342&border_color=a5d6a7" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats-phi-gold-29.vercel.app/api/top-langs/?username=harumaki1220&layout=compact&count_private=true&bg_color=fffff0&title_color=33691e&text_color=5d4037&icon_color=7cb342&border_color=a5d6a7&hide=html,css&exclude_repo=github-readme-streak-stats,github-readme-stats" height="150" alt="languages graph" />
-  <br>
-  
-  <img src="https://github-readme-streak-stats-self-gamma.vercel.app/?user=harumaki1220&background=fffff0&ring=7cb342&fire=33691e&currStreakLabel=33691e&currStreakNum=5d4037&sideNums=5d4037&sideLabels=33691e&border=a5d6a7" alt="GitHub Streak" />
-</div>
+  <p>
+    <a href="https://harumaki1220.github.io/portfolio/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-33691e?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://x.com/matcha445_dev">
+      <img src="https://img.shields.io/badge/X-@matcha445__dev-black?style=flat-square&logo=x" alt="X" />
+    </a>
+  </p>
 
----
-<p align="right">Icon by <a href="https://x.com/yng_hoti">@yng_hoti</a> 🎨</p>
+  <sub>Icon by <a href="https://x.com/yng_hoti">@yng_hoti</a> 🎨</sub>
+</div>
