@@ -16,20 +16,22 @@ jobs:
         run: mkdir -p cards
 
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
           path: cards/stats.svg
           token: ${{ secrets.STATS_TOKEN }}
+          core_version: 2.2.1
 
       - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&exclude_repo=github-readme-stats,github-readme-streak-stats
           path: cards/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
+          core_version: 2.2.1
 
       - name: Push to output branch
         run: |
