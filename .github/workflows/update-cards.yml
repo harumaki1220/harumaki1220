@@ -21,15 +21,15 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
           path: cards/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact
+          options: username=${{ github.repository_owner }}&layout=compact&exclude_repo=github-readme-stats,github-readme-streak-stats
           path: cards/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Push to output branch
         run: |
